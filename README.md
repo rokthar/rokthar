@@ -10,7 +10,7 @@
 <a href="https://www.facebook.com/riky.esparza.5" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 
 ```typescript
-const thai = {
+const rokthar = {
   code: [ Javascript, Typescript, HTML, CSS, Python, C#, PHP ],
   tools: [ React, Angular, Node, Styled-Components, Lumen ],
   architecture: [ "microservices" ],

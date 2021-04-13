@@ -17,11 +17,11 @@ const thai = {
   techCommunities: { developer: "Carbunco" }
   }
 ```
-
-<a href="https://github.com/rokthar">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rokthar&theme=radical&hide=glsl,python" />
-</a>
-
+<br>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rokthar&theme=radical" />
+</p>
+<br>
 ![Rokthar's GitHub stats](https://github-readme-stats.vercel.app/api?username=rokthar&show_icons=true&theme=dracula)
   
 <!---

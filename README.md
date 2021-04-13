@@ -16,11 +16,9 @@ const thai = {
   }
 ```
 <br>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rokthar&theme=radical" />
-</p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rokthar&theme=radical" /></p>
 <br>
-![Rokthar's GitHub stats](https://github-readme-stats.vercel.app/api?username=rokthar&show_icons=true&theme=dracula)
+<p><img src="https://github-readme-stats.vercel.app/api?username=rokthar&show_icons=true&theme=dracula" /></p>
   
 <!---
 rokthar/rokthar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

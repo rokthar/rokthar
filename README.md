@@ -16,7 +16,7 @@ const thai = {
   }
 ```
 <br>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rokthar&theme=radical" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rokthar&theme=radical&langs_count=8" /></p>
 <br>
 <p><img src="https://github-readme-stats.vercel.app/api?username=rokthar&show_icons=true&theme=dracula" /></p>
   

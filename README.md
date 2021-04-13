@@ -6,8 +6,9 @@
 <p> - 💞️ I’m looking to collaborate on artificial intelligence systems and software that help in education </p>
 <p> - 📫 How to reach me ... </p>
 
-<a href="https://github.com/rokthar"><img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34"></a>
-
+<p><a href="https://github.com/rokthar"><img src="" alt="github logo" width="34"></a></p>
+<p><a href="https://www.linkedin.com/in/rik-torres-b87a89156/"><img src="" alt="linkedin logo" width="34"></a></p>
+<p><a href="https://www.facebook.com/riky.esparza.5"><img src="" alt="github logo" width="34"></a></p>
 ```typescript
 const thai = {
   code: [ Javascript, Typescript, HTML, CSS, Python, C#, PHP ],
@@ -16,6 +17,11 @@ const thai = {
   techCommunities: { developer: "Carbunco" }
   }
 ```
+
+<a href="https://github.com/rokthar">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rokthar&theme=radical&hide=glsl,python" />
+</a>
+
 ![Rokthar's GitHub stats](https://github-readme-stats.vercel.app/api?username=rokthar&show_icons=true&theme=dracula)
   
 <!---

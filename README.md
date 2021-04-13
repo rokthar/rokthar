@@ -6,9 +6,7 @@
 <p> - 💞️ I’m looking to collaborate on artificial intelligence systems and software that help in education </p>
 <p> - 📫 How to reach me ... </p>
 
-<p><a href="https://github.com/rokthar"><img src="" alt="github logo" width="34"></a></p>
-<p><a href="https://www.linkedin.com/in/rik-torres-b87a89156/"><img src="" alt="linkedin logo" width="34"></a></p>
-<p><a href="https://www.facebook.com/riky.esparza.5"><img src="" alt="github logo" width="34"></a></p>
+
 ```typescript
 const thai = {
   code: [ Javascript, Typescript, HTML, CSS, Python, C#, PHP ],

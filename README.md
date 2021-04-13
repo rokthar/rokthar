@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/rokthar/rokthar/main/staryuuki.png" width="50">
+<img src="https://raw.githubusercontent.com/rokthar/rokthar/main/bannerRothar.png" width="100%">
 <h3> 👨🏻•💻 About Me </h3>
 <p> - 👋 Hi, I’m Ricardo Javier Esparza Torres @rokthar </p> 
 <p> - 👀 I’m interested in the development and design </p>

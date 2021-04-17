@@ -18,9 +18,9 @@ const rokthar = {
   }
 ```
 <br>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rokthar&theme=radical&langs_count=8" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rokthar&theme=radical&count_private=true&langs_count=8" /></p>
 <br>
-<p><img src="https://github-readme-stats.vercel.app/api?username=rokthar&show_icons=true&theme=dracula" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=rokthar&show_icons=true&theme=dracula"&count_private=true /></p>
   
 <!---
 rokthar/rokthar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
